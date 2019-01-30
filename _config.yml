@@ -13,7 +13,7 @@ description: MSA Knowledge (Kubernetes, Docker, Springboot, Openshift, Isitio, D
 #
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: images/ktds-logo-black.png
+avatar: https://raw.githubusercontent.com/ktds-MSA/ktds-MSA.github.io/master/images/ktds-log-black.png
 
 
 # Tabs in header. There are 'Blog', 'About', 'Archive', 'Tags'
