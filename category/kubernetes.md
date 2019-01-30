@@ -2,6 +2,6 @@
 
 layout: category
 
-XStitle: Kubernetes
+title: Kubernetes
 
 ---
